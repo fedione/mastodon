@@ -55,6 +55,6 @@ No content from the server is stored or displayed, no communication with the ser
 
 ### Block removal
 
-Should the circumstances that led to a domain being blocked change, we are ready to revise our block. Please e-mail <admin@fedi.one> for that.
+Should the circumstances that led to a domain being blocked change, we are ready to revise our block. Please e-mail fedi.one admin for that.
 
 We do not block servers for harassment if their moderation team is trying to tackle the problem; we always try to moderate locally first. However, if the server's culture is promoting harassment or the volume of it overwhelms our mods we resort to a sandbox or suspension for the server.
