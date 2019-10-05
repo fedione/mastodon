@@ -42,6 +42,8 @@ This is a list of servers that fedi.one (original by mastodon.social) inhibits f
 |`waifuappreciation.club`|Suspension|Harassment|
 |`lets.saynoto.lgbt`|Suspension|Harassment|
 |`gab.protohype.net`|Suspension|Harassment|
+|`sinblr.com`|Silence|Workaround for instance-wide CW|
+|`myfreecams.com`|Silence|Workaround for instance-wide CW|
 
 ### Severity legend
 
